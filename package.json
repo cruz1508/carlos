@@ -1,0 +1,20 @@
+{
+  "name": "carlos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruz1508/carlos.git"
+  },
+  "keywords": [],
+  "author": "Carlos Cruz <g00310197@stu.raritanval.edu> (https://github.com/cruz1508)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cruz1508/carlos/issues"
+  },
+  "homepage": "https://github.com/cruz1508/carlos#readme"
+}
