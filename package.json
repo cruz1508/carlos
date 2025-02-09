@@ -7,7 +7,8 @@
     "carlos": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/cruz1508/carlos/issues"
   },
-  "homepage": "https://github.com/cruz1508/carlos#readme"
+  "homepage": "https://github.com/cruz1508/carlos#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^9.20.0",
+    "globals": "^15.14.0"
+  }
 }
